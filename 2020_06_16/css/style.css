@@ -1279,7 +1279,7 @@ section {
     border-radius: 0;
     border: none;
     /*background-color: rgba(239, 239, 239, 0.69);*/
-    background:url(/template/XW/assets/img/1140-100.png) no-repeat;
+    background:url("https://cdn.jsdelivr.net/gh/guyuxiu/wucaini@latest/2020_06_16/img/1140-100.png") no-repeat;
     background-size: 100%;
     -moz-background-size: 100%;
 
